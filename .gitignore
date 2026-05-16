@@ -1,0 +1,25 @@
+# Secrets and API Keys
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# React Frontend Modules
+frontend/node_modules/
+.next/
+
+# Project Specific Output Files
+Filled_Application_Receipt.pdf
+response_cache.json
+
+#Folders
+agentic_ai_literature/
+extra stuff/
+
+# Dissertation and Reference Files
+*.pptx
+*.ppt
+*.docx
+*.doc

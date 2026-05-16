@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head><title>Banking - Account Opening</title></head>
+<body style="font-family: Arial; padding: 40px; max-width: 600px;">
+    <h2>Bank Account Application</h2>
+    <form id="bankingForm">
+        <label>Full Name:</label><br>
+        <input type="text" name="applicant_name" id="applicant_name"><br><br>
+
+        <label>Father's Name:</label><br>
+        <input type="text" name="father_name" id="father_name"><br><br>
+
+        <label>Age (Must be 18+):</label><br>
+        <input type="number" name="applicant_age" id="applicant_age"><br><br>
+
+        <label>Phone Number:</label><br>
+        <input type="tel" name="phone_number" id="phone_number"><br><br>
+
+        <label>12-Digit Aadhaar Number:</label><br>
+        <input type="text" name="aadhaar_id" id="aadhaar_id"><br><br>
+
+        <label>PAN Card Number:</label><br>
+        <input type="text" name="pan_number" id="pan_number"><br><br>
+
+        <label>Account Type:</label><br>
+        <select name="account_type" id="account_type">
+            <option value="savings">Savings Account</option>
+            <option value="current">Current Account</option>
+        </select><br><br>
+
+        <label>Preferred Communication Language:</label><br>
+        <select name="pref_lang" id="pref_lang">
+            <option value="english">English</option>
+            <option value="hindi">Hindi</option>
+            <option value="bengali">Bengali</option>
+        </select><br><br>
+
+        <h3>Address Details</h3>
+        
+        <label>State:</label><br>
+        <input type="text" name="address_state" id="address_state"><br><br>
+
+        <label>District:</label><br>
+        <input type="text" name="address_district" id="address_district"><br><br>
+
+        <label>City / Village:</label><br>
+        <input type="text" name="address_city" id="address_city"><br><br>
+
+        <label>PIN Code (6 Digits):</label><br>
+        <input type="text" name="address_pincode" id="address_pincode"><br><br>
+
+        <button type="submit" style="padding: 10px 20px; font-size: 16px;">Submit Application</button>
+    </form>
+</body>
+</html>

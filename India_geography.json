@@ -1,0 +1,45 @@
+{
+  "West Bengal": [
+    "Kolkata", 
+    "Howrah", 
+    "Darjeeling", 
+    "Hooghly", 
+    "North 24 Parganas", 
+    "South 24 Parganas",
+    "Alipurduar",
+    "Bankura",
+    "Birbhum",
+    "Cooch Behar",
+    "Dakshin Dinajpur",
+    "South Dinajpur",
+    "Jalpaiguri",
+    "Jhargram",
+    "Kalimpong",
+    "Malda",
+    "Murshidabad",
+    "Nadia",
+    "Paschim Bardhaman",
+    "West Bardhaman",
+    "Paschim Medinipur", 
+    "West Medinipur",
+    "Purba Bardhaman", 
+    "East Bardhaman",
+    "Purba Medinipur", 
+    "East Medinipur",
+    "Purulia",
+    "Uttar Dinajpur", 
+    "North Dinajpur"
+  ],
+  "Maharashtra": [
+    "Mumbai", 
+    "Pune", 
+    "Nagpur", 
+    "Thane", 
+    "Nashik"
+  ],
+  "Delhi": [
+    "New Delhi", 
+    "North Delhi", 
+    "South Delhi"
+  ]
+}
