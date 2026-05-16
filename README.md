@@ -109,7 +109,7 @@ Extensive field testing (N=10 qualitative cohort, N=4 micro-latency cohort) yiel
 
 4. **Start the FastAPI server:**
   ```bash
-  uvicorn app.main:app --reload
+  uvicorn main:app --reload
   ```
 
 ## Ethics & Privacy
